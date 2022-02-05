@@ -20,7 +20,6 @@ botavesraras@gmail.com
   <div class="form">
 
     <form>
-      <lottie-player src="https://assets4.lottiefiles.com/datafiles/XRVoUu3IX4sGWtiC3MPpFnJvZNq7lVWDCa8LSqgS/profile.json"  background="transparent"  speed="1"  style="justify-content: center;" loop  autoplay></lottie-player>
       <input type="text" placeholder="&#xf007;  usuário"/>
       <input type="password" id="password" placeholder="&#xf023;  senha"/>
       <i class="fas fa-eye" onclick="show()"></i> 
