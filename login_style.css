@@ -15,7 +15,7 @@
 .form {
   position: relative;
   z-index: 1;
-  background: #48c9b0;
+  background: #4a5ea1;
   max-width: 360px;
   margin: 0 auto 100px;
   padding: 45px;
@@ -121,10 +121,10 @@ border-radius:30px;
 }
 body {
   background: #4a5ea1; /* fallback for old browsers */
-  background: -webkit-linear-gradient(right, #4a5ea1, #8DC26F);
-  background: -moz-linear-gradient(right, #4a5ea1, #8DC26F);
-  background: -o-linear-gradient(right, #74a5ea1, #8DC26F);
-  background: linear-gradient(to left, #4a5ea1, #8DC26F);
+  background: -webkit-linear-gradient(right, #4a5ea1, #1a2752);
+  background: -moz-linear-gradient(right, #4a5ea1, #1a2752);
+  background: -o-linear-gradient(right, #74a5ea1, #1a2752);
+  background: linear-gradient(to left, #4a5ea1, #1a2752);
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;      
