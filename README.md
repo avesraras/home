@@ -18,14 +18,14 @@ botavesraras@gmail.com
       <input type="password" id="password" placeholder="&#xf023;  senha"/>
       <i class="fas fa-eye" onclick="show()"></i> 
       <br>
-      <br>
+      
       <button>LOGIN</button>
       <p class="message"></p>
     </form>
     <br>
     <br>
-    ### [Novo Usuário](https://mehedi61.github.io/Login-Signup-form/signup.html) 
+    
   </div>
 </div>
-
+### [Novo Usuário](https://mehedi61.github.io/Login-Signup-form/signup.html) 
 
