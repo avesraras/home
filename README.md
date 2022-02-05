@@ -1,6 +1,8 @@
-![@avesraras](logo.png)
+<p align="center">
+  ![@avesraras](logo.png)
 # AVES_RARAS - Tecnologia em Investimentos
 botavesraras@gmail.com
+</p>
 <html lang="pt" >
 <html>
 <head>
@@ -21,7 +23,9 @@ botavesraras@gmail.com
   <div class="form">
 
     <form>
+      <p align="center">
       ![@avesraras](logo.png)
+      </p>
       <input type="text" placeholder="Usuário"/>
       <input type="password" id="password" placeholder="Senha"/>
       <i class="fas fa-eye" onclick="show()"></i> 
