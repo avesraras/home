@@ -1,4 +1,4 @@
-![alt text](https://avesraras.github.io/home/blob/[branch]/image.jpg?raw=true)
+![@avesraras](logo.png)
 # AVES_RARAS - Tecnologia em Investimentos
 botavesraras@gmail.com
 <html lang="pt" >
