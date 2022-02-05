@@ -19,7 +19,9 @@ botavesraras@gmail.com
 
 <div class="login-page">
   <div class="form">
-
+    <form>
+      ![@avesraras](logo.png)
+    </form>
     <form> 
       <input type="text" placeholder="Usuário"/>
       <input type="password" id="password" placeholder="Senha"/>
