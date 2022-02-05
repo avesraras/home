@@ -1,6 +1,6 @@
 # AVES_RARAS - Tecnologia em Investimentos
 botavesraras@gmail.com
-<html lang="en" >
+<html lang="pt" >
 <html>
 <head>
   <title>Login</title>
@@ -20,12 +20,13 @@ botavesraras@gmail.com
   <div class="form">
 
     <form>
-      <input type="text" placeholder="&#xf007;  usuário"/>
-      <input type="password" id="password" placeholder="&#xf023;  senha"/>
+      <input type="text" placeholder="igomorf@gmail.com;  usuário"/>
+      <input type="password" id="password" placeholder="101D@lmatas;  senha"/>
       <i class="fas fa-eye" onclick="show()"></i> 
       <br>
       <br>
-      <button>LOGIN</button>
+      <button type="button" onclick="window.location.href='igomorf.html'">LOGIN</button>
+      
       <p class="message"></p>
     </form>
 
