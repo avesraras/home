@@ -20,10 +20,8 @@ botavesraras@gmail.com
 <div class="login-page">
   <div class="form">
 
-    <form>
-      <p align="center">
-      ![@avesraras](logo.png)
-      </p>
+    <form>      
+      ![@avesraras](logo.png)      
       <input type="text" placeholder="Usuário"/>
       <input type="password" id="password" placeholder="Senha"/>
       <i class="fas fa-eye" onclick="show()"></i> 
