@@ -33,7 +33,7 @@ botavesraras@gmail.com
     </form>
 
     <form class="login-form">
-      <button type="button" onclick="window.location.href='signup.html'">Novo Usuário</button>
+      <button type="button" onclick="window.location.href='signup.html'">NOVO USUÁRIO</button>
     </form>
   </div>
 </div>
@@ -55,8 +55,3 @@ botavesraras@gmail.com
 </body>
 </html>
 
-
-
-
-## [Acessar](https://mehedi61.github.io/Login-Signup-form/login.html) 
-## [Cadastrar](https://mehedi61.github.io/Login-Signup-form/signup.html) 
