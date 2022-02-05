@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
 .body{
-  background-image: url('https://ordinaryfaith.net/wp-content/uploads/2016/03/Gray-plain-website-background.jpg');
+  background-image: url('https://github.com/avesraras/home/blob/main/banner.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -42,7 +42,7 @@ border-radius:10px;
   font-weight: bold;
   letter-spacing: .1em;
   outline: 0;
-  background: #17a589;
+  background: #1a2752;
   width: 100%;
   border: 0;
 border-radius:30px;
@@ -57,7 +57,7 @@ border-radius:30px;
 
 }
 .form button:hover,.form button:focus {
-  background: #148f77;
+  background: #404c76;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   transform: translateY(-4px);
 }
@@ -120,11 +120,11 @@ border-radius:30px;
   color: #EF3B3A;
 }
 body {
-  background: #76b852; /* fallback for old browsers */
-  background: -webkit-linear-gradient(right, #76b852, #8DC26F);
-  background: -moz-linear-gradient(right, #76b852, #8DC26F);
-  background: -o-linear-gradient(right, #76b852, #8DC26F);
-  background: linear-gradient(to left, #76b852, #8DC26F);
+  background: #4a5ea1; /* fallback for old browsers */
+  background: -webkit-linear-gradient(right, #4a5ea1, #8DC26F);
+  background: -moz-linear-gradient(right, #4a5ea1, #8DC26F);
+  background: -o-linear-gradient(right, #74a5ea1, #8DC26F);
+  background: linear-gradient(to left, #4a5ea1, #8DC26F);
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;      
