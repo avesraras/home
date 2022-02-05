@@ -20,8 +20,8 @@ botavesraras@gmail.com
   <div class="form">
 
     <form>
-      <input type="text" placeholder="igomorf@gmail.com;  usuário"/>
-      <input type="password" id="password" placeholder="senha123;  senha"/>
+      <input type="text" placeholder="Usuário"/>
+      <input type="password" id="password" placeholder="Senha"/>
       <i class="fas fa-eye" onclick="show()"></i> 
       <br>
       <br>
