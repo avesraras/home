@@ -14,6 +14,7 @@ botavesraras@gmail.com
     <form>
       <lottie-player src="https://assets4.lottiefiles.com/datafiles/XRVoUu3IX4sGWtiC3MPpFnJvZNq7lVWDCa8LSqgS/profile.json"  background="transparent"  speed="1"  style="justify-content: center;" loop  autoplay></lottie-player>
       <input type="text" placeholder="&#xf007;  usuário"/>
+      <br>
       <input type="password" id="password" placeholder="&#xf023;  senha"/>
       <i class="fas fa-eye" onclick="show()"></i> 
       <br>
@@ -21,10 +22,9 @@ botavesraras@gmail.com
       <button>LOGIN</button>
       <p class="message"></p>
     </form>
-
-    <form class="login-form">
-      <button type="button" onclick="window.location.href='signup.html'">Novo Usuário</button>
-    </form>
+    <br>
+    <br>
+    ### [Novo Usuário](https://mehedi61.github.io/Login-Signup-form/signup.html) 
   </div>
 </div>
 
