@@ -12,7 +12,7 @@ botavesraras@gmail.com
   <div class="form">
 
     <form>
-      <lottie-player src="https://assets4.lottiefiles.com/datafiles/XRVoUu3IX4sGWtiC3MPpFnJvZNq7lVWDCa8LSqgS/profile.json"  background="transparent"  speed="1"  style="justify-content: center;" loop  autoplay></lottie-player>
+      <lottie-player src="https://assets4.lottiefiles.com/datafiles/XRVoUu3IX4sGWtiC3MPpFnJvZNq7lVWDCa8LSqgS/profile.json"  	           background="transparent"  speed="1"  style="justify-content: center;" loop  autoplay></lottie-player>
       <input type="text" placeholder="&#xf007;  usuário"/>
       <br>
       <input type="password" id="password" placeholder="&#xf023;  senha"/>
@@ -34,7 +34,8 @@ botavesraras@gmail.com
     <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
     <br>
-    <label for="psw"><b>Password</b></label>
+    <br>
+    <label for="psw"><b>Password </b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 
     <button type="submit">Login</button>
