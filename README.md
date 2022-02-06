@@ -1,5 +1,5 @@
 ![@avesraras](logo.png)
-# AVES_RARAS - Tecnologia em Investimentos
+# AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS
 botavesraras@gmail.com
 <html lang="pt" >
 <html>
