@@ -1,8 +1,6 @@
-![@avesraras](logo.png)  
 <p float="left">
   </p>
-  <img src="logo.png" width="100" />
-#AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS
+  <img src="logo.png" width="100" /> # AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS
 
 botavesraras@gmail.com
 <html lang="pt" >
