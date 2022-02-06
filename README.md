@@ -1,4 +1,4 @@
-<html lang="pt" >
+<html>
 <head>  
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
@@ -12,14 +12,13 @@
 <body class="body">
   <header>
     <div id="logo"><img src="logo.png?raw=true">Aves_Raras&nbsp;Page</div>
-  </header>
-    <center>          
+  </header>              
           <h2>root@avesraras:~/TEOLOGIA_EM_INVESTIMENTOS#</h2><br>
-          <h3>botavesraras@gmail.com</h3>
-    </center>
+          <h3>botavesraras@gmail.com</h3>    
     <form> 
         <div class="login-page">        
-            <div class="form">      
+            <div class="form">
+                  <h3>Faça seu login</h3>
                   <input type="text" placeholder="Usuário"/>
                   <input type="password" id="password" placeholder="Senha"/>
                   <i class="fas fa-eye" onclick="show()"></i> 
