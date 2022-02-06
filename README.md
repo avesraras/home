@@ -10,7 +10,9 @@
 </head>
 
 <body class="body">
+  <header>
     <div id="logo"><img src="logo.png?raw=true">Aves_Raras&nbsp;Page</div>
+  </header>
     <center>          
           <h2>root@avesraras:~/TEOLOGIA_EM_INVESTIMENTOS#</h2><br>
           <h3>botavesraras@gmail.com</h3>
