@@ -1,9 +1,4 @@
   #### AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS 
-  <p float="middle">  
-  <img src="logo.png" width="80" />
-  </p>
-
-
 botavesraras@gmail.com
 <html lang="pt" >
 <html>
@@ -19,7 +14,9 @@ botavesraras@gmail.com
 </head>
 
 <body class="body">  
-
+<p float="middle">  
+  <img src="logo.png" width="80" />
+  </p>
     <form> 
       <div class="login-page">
       <div class="form">
