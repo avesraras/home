@@ -16,9 +16,10 @@
           <h2>root@avesraras:~/TEOLOGIA_EM_INVESTIMENTOS#</h2><br>
           <h3>botavesraras@gmail.com</h3>    
     <form> 
-        <div class="login-page">        
+        <div class="login-page">
+            <h2>Faça seu login</h2>
             <div class="form">
-                  <h3>Faça seu login</h3>
+                  <h2>Faça seu login</h2>
                   <input type="text" placeholder="Usuário"/>
                   <input type="password" id="password" placeholder="Senha"/>
                   <i class="fas fa-eye" onclick="show()"></i> 
