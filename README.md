@@ -28,7 +28,7 @@
                   <p class="message"></p>    
 
                   <form class="login-form">
-                      <button type="button" onclick="window.location.href='signup.html'">NOVO USUÁRIO</button>
+                      <button type="button" onclick="window.location.href='signup.html'">Contrate</button>
                   </form>
             </div>
         </div>
