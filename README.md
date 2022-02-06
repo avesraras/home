@@ -1,6 +1,7 @@
-<p float="left">
+<p float="left">  
+  <img src="logo.png" width="80" />
   </p>
-  <img src="logo.png" width="100" /> # AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS
+  # AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS
 
 botavesraras@gmail.com
 <html lang="pt" >
