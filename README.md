@@ -15,15 +15,15 @@ botavesraras@gmail.com
 </head>
 
 <body class="body">  
-    <img src="logo.jpg" align="center">
+  <!–-  <img src="logo.jpg" align="center">  -–>
     <form> 
       <div class="login-page">
       <div class="form">
-        <div>
+     <!–-   <div>
         <input id="image" type="image"
         src="logo.png"               
         alt="AvesRaras" width="200" height="100">
-      </div>     
+      </div>     -–>
       <input type="text" placeholder="Usuário"/>
       <input type="password" id="password" placeholder="Senha"/>
       <i class="fas fa-eye" onclick="show()"></i> 
