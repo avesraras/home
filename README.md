@@ -9,15 +9,13 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
 </head>
 
-<body class="body">  
-  <p float="center">  
-      <img src="logo.png" width="80" />
-  </p>
-  <center>
+<body class="body">
+<center>
+      <p><img src="logo.png" width="80"/></p>
       <p><h2>AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS</h2></p> 
       <p><h4>botavesraras@gmail.com</h4></p>
-  </center>
-    <form> 
+</center>
+<form> 
       <div class="login-page">
       <div class="form">
       
