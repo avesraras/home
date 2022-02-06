@@ -10,44 +10,41 @@
 </head>
 
 <body class="body">
-<center>
-      <img src="logo.png" width="80"/><br>
-      <h2>root@avesraras:~/TEOLOGIA_EM_INVESTIMENTOS#</h2><br>
-      <h3>botavesraras@gmail.com</h3>
-</center>
-<form> 
-      <div class="login-page">        
-      <div class="form">
-      
-      <input type="text" placeholder="Usuário"/>
-      <input type="password" id="password" placeholder="Senha"/>
-      <i class="fas fa-eye" onclick="show()"></i> 
-      <br>
-      <br>
-      <button type="button" onclick="window.location.href='igomorf.html'">LOGIN</button>      
-      <p class="message"></p>    
+    <center>
+          <img src="logo.png" width="80"/><br>
+          <h2>root@avesraras:~/TEOLOGIA_EM_INVESTIMENTOS#</h2><br>
+          <h3>botavesraras@gmail.com</h3>
+    </center>
+    <form> 
+        <div class="login-page">        
+            <div class="form">      
+                  <input type="text" placeholder="Usuário"/>
+                  <input type="password" id="password" placeholder="Senha"/>
+                  <i class="fas fa-eye" onclick="show()"></i> 
+                  <br>
+                  <br>
+                  <button type="button" onclick="window.location.href='igomorf.html'">LOGIN</button>      
+                  <p class="message"></p>    
 
-    <form class="login-form">
-      <button type="button" onclick="window.location.href='signup.html'">NOVO USUÁRIO</button>
+                  <form class="login-form">
+                      <button type="button" onclick="window.location.href='signup.html'">NOVO USUÁRIO</button>
+                  </form>
+            </div>
+        </div>
     </form>
-  </div>
-</div>
-</form>
-
-  <script>
-    function show(){
-      var password = document.getElementById("password");
-      var icon = document.querySelector(".fas")
-
-      // ========== Checking type of password ===========
-      if(password.type === "password"){
-        password.type = "text";
-      }
-      else {
-        password.type = "password";
-      }
-    };
-  </script>
+    <script>
+        function show(){
+            var password = document.getElementById("password");
+            var icon = document.querySelector(".fas")
+            // ========== Checking type of password ===========
+            if(password.type === "password"){
+                password.type = "text";
+            }
+            else {
+                password.type = "password";
+            }
+        };
+    </script>
 </body>
 </html>
 
