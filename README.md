@@ -15,14 +15,15 @@ botavesraras@gmail.com
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
 </head>
 
-<body class="body">
-
-<div class="login-page">
-  <div class="form">
-    <form>
-      ![@avesraras](logo.png)
-    </form>
+<body class="body">    
     <form> 
+      <div class="login-page">
+      <div class="form">
+        <div>
+        <input id="image" type="image"
+        src="logo.png"
+        alt="AvesRaras" width="200" height="100">
+      </div>     
       <input type="text" placeholder="Usuário"/>
       <input type="password" id="password" placeholder="Senha"/>
       <i class="fas fa-eye" onclick="show()"></i> 
