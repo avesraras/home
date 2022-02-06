@@ -19,6 +19,8 @@ botavesraras@gmail.com
     <form> 
       <div class="login-page">
       <div class="form">
+      imagealphablending($this->img_temp, false);
+      imagesavealpha($this->img_temp, true);
       <img src="logo.png" align="center">
       <input type="text" placeholder="Usuário"/>
       <input type="password" id="password" placeholder="Senha"/>
