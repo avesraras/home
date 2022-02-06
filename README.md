@@ -11,7 +11,7 @@
 
 <body class="body">
     <center>
-          <img src="logo.png" width="80"/><br>
+          <div id="logo"><img src="logo.png?raw=true">Aves_Raras&nbsp;Page</div>
           <h2>root@avesraras:~/TEOLOGIA_EM_INVESTIMENTOS#</h2><br>
           <h3>botavesraras@gmail.com</h3>
     </center>
