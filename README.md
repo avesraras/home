@@ -12,7 +12,7 @@
 <body class="body">
 <center>
       <p><img src="logo.png" width="80"/></p>
-      <p><h2>AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS</h2></p> 
+      <p><h2>root@avesraras:~/AVES_RARAS/TEOLOGIA_EM_INVESTIMENTOS#</h2></p> 
       <p><h4>botavesraras@gmail.com</h4></p>
 </center>
 <form> 
