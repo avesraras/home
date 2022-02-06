@@ -14,7 +14,7 @@ botavesraras@gmail.com
 </head>
 
 <body class="body">  
-<p float="middle">  
+<p float="center">  
   <img src="logo.png" width="80" />
   </p>
     <form> 
