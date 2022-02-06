@@ -1,4 +1,5 @@
-  #### AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS <p float="left">  
+  #### AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS 
+  <p float="middle">  
   <img src="logo.png" width="80" />
   </p>
 
