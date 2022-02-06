@@ -26,8 +26,7 @@ botavesraras@gmail.com
       <br>
       <br>
       <button type="button" onclick="window.location.href='igomorf.html'">LOGIN</button>      
-      <p class="message"></p>
-    </form>
+      <p class="message"></p>    
 
     <form class="login-form">
       <button type="button" onclick="window.location.href='signup.html'">NOVO USUÁRIO</button>
