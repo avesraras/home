@@ -7,6 +7,13 @@
   background-size: cover;  
 }
 
+header {
+    background: #82a8cf;
+    padding: 20px 30px;
+    max-width: 940px;
+    margin: auto;
+}
+
 .imagem{
 	background:url(logo.png) no-repeat center center;
 	_background:none;
