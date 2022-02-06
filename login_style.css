@@ -7,6 +7,12 @@
   background-size: cover;  
 }
 
+.imagem{
+	background:url(logo.png) no-repeat center center;
+	_background:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='logo.png',sizingMethod='scale');
+}
+
 p{
   font-size: large;
   color: #D8D8D8;
