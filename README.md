@@ -19,7 +19,7 @@ botavesraras@gmail.com
     <form> 
       <div class="login-page">
       <div class="form">
-    
+      <img src="logo.png" align="center">
       <input type="text" placeholder="Usuário"/>
       <input type="password" id="password" placeholder="Senha"/>
       <i class="fas fa-eye" onclick="show()"></i> 
