@@ -14,7 +14,7 @@
       <img src="logo.png" width="80" />
   </p>
   <center>
-      <p><h2><AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS</h2></p> 
+      <p><h2>AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS</h2></p> 
       <p><h4>botavesraras@gmail.com</h4></p>
   </center>
     <form> 
