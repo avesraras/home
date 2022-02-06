@@ -1,10 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
 .body{
-  background-image: url('https://github.com/avesraras/home/blob/main/banner.png');
+  
+  background: #2E2E2E;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;  
 }
+
+p{
+  font-size: large;
+  color: #D8D8D8;
+}
+
 
 .login-page {
   width: 360px;
@@ -54,7 +61,6 @@ border-radius:30px;
   cursor: pointer;
   transition: all 0.2s;
 
-
 }
 .form button:hover,.form button:focus {
   background: #404c76;
@@ -73,9 +79,7 @@ border-radius:30px;
   font-size: 11px;
   text-align: center;
   font-weight: bold;
-  font-style: normal;
-
-  
+  font-style: normal; 
 
 }
 .form .message a {
