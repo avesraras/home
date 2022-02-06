@@ -11,9 +11,9 @@
 
 <body class="body">
 <center>
-      <p><img src="logo.png" width="80"/><br>
+      <img src="logo.png" width="80"/><br>
       <h2>root@avesraras:~/TEOLOGIA_EM_INVESTIMENTOS#</h2><br>
-      <h3>botavesraras@gmail.com</h3></p>
+      <h3>botavesraras@gmail.com</h3>
 </center>
 <form> 
       <div class="login-page">        
