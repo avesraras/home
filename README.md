@@ -1,11 +1,5 @@
-## AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS 
-botavesraras@gmail.com
-
-
 <html lang="pt" >
-
-<head>
-  
+<head>  
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
   <link rel="stylesheet" type="text/css" href="login_style.css">
@@ -16,11 +10,13 @@ botavesraras@gmail.com
 </head>
 
 <body class="body">  
-<p float="center">  
-  <img src="logo.png" width="80" />
+  <p float="center">  
+      <img src="logo.png" width="80" />
   </p>
-  <h2>AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS</h2> 
-  <h4>botavesraras@gmail.com</h4> 
+  <center>
+      <p><h2><AVES_RARAS_TECNOLOGIA_EM_INVESTIMENTOS</h2></p> 
+      <p><h4>botavesraras@gmail.com</h4></p>
+  </center>
     <form> 
       <div class="login-page">
       <div class="form">
