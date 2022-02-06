@@ -28,7 +28,7 @@
                   <p class="message"></p>    
 
                   <form class="login-form">
-                      <button type="button" onclick="window.location.href='signup.html'">Contrate</button>
+                      <button type="button" onclick="window.location.href='signup.html'">Contrate um Plano</button>
                   </form>
             </div>
         </div>
