@@ -17,9 +17,8 @@
           <h3>botavesraras@gmail.com</h3>    
     <form> 
         <div class="login-page">
-            <h2>Faça seu login</h2>
-            <div class="form">
-                  <h2>Faça seu login</h2>
+          <center><h2>Faça seu login</h2></center>
+            <div class="form">                  
                   <input type="text" placeholder="Usuário"/>
                   <input type="password" id="password" placeholder="Senha"/>
                   <i class="fas fa-eye" onclick="show()"></i> 
