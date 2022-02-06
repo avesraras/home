@@ -11,12 +11,12 @@
 
 <body class="body">
 <center>
-      <p><img src="logo.png" width="80"/></p>
-      <p><h2>root@avesraras:~/TEOLOGIA_EM_INVESTIMENTOS#</h2></p> 
-      <p><h4>botavesraras@gmail.com</h4></p>
+      <p><img src="logo.png" width="80"/><br>
+      <h2>root@avesraras:~/TEOLOGIA_EM_INVESTIMENTOS#</h2><br>
+      <h3>botavesraras@gmail.com</h4></p>
 </center>
 <form> 
-      <div class="login-page">
+      <div class="login-page">        
       <div class="form">
       
       <input type="text" placeholder="Usuário"/>
@@ -32,6 +32,7 @@
     </form>
   </div>
 </div>
+</form>
 
   <script>
     function show(){
