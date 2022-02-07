@@ -23,10 +23,10 @@ header {
     max-width: 1600px;
     margin: auto;
     color:#d9d9d9
-    background-image: 
+    background-image: img src="banner.png";
     background-size: cover;
     background-position: center;
-    height: 100vh;    
+    height: 300vh;    
 }
 nav {
     display: inline-block;
