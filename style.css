@@ -94,12 +94,10 @@ footer p {
 address {
     padding: 10px 20px 30px 10px;
 }
-aside > div {
-	margin-left: 12px;
-	margin-left: 5px;
+aside > div {	
+	margin-right: 12px;
 	background: #4A5EA1;
-	min-height: 100px;
-	color: #d9d9d9
+	min-height: 300px;	
 }
 #logo {
     display: inline-block;
