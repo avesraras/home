@@ -65,12 +65,14 @@ aside {
 article {
     border-bottom: 2px dotted #999;
     padding-bottom: 20px;
-    margin-bottom: 75px;
+    margin-bottom: 30px;
+    margin-left: 12px;	
     color: #d9d9d9;
 }
 article h2 {
     font-weight: normal;
     margin-bottom: 12px;
+    margin-left: 12px;
 }
 article p {
 	
@@ -93,7 +95,8 @@ address {
     padding: 10px 20px 30px 10px;
 }
 aside > div {
-	margin: 10px auto;
+	margin-left: 12px;
+	margin-left: 5px;
 	background: #4A5EA1;
 	min-height: 100px;
 	color: #d9d9d9
