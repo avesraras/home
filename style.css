@@ -20,7 +20,7 @@ body,html {
 header {
     background: #4A5EA1;
     padding: 20px 30px;
-    max-width: 1080px;
+    max-width: 1600px;
     margin: auto;
 }
 nav {
@@ -46,7 +46,7 @@ nav ul {
     list-style: none;
 }
 #pageContent {
-    max-width: 1000px;
+    max-width: 1600px;
     margin: auto;
     border: none;
 }
@@ -75,10 +75,11 @@ main section {
 }
 footer {
 	background: #4A5EA1;
-	max-width: 1080px;
+	max-width: 1600px;
 	margin: auto;
 	clear: both;
 	text-align: right;
+	font-color: #e6e6e6;
 }
 footer p {
 	padding: 20px;
@@ -96,11 +97,11 @@ aside > div {
     vertical-align: middle;
     font-size: 30px;
     margin-right: 75px;
-    color: #FFF;
+    
 }
 
 body > section {
-    max-width: 1080px;
+    max-width: 1600px;
     margin: auto;
     padding: 30px 0px;
     border-bottom: 1px solid #999;
@@ -163,7 +164,7 @@ border-radius:10px;
   background: #2D3961;
   width: 100%;
   border: 0;
-border-radius:30px;
+  border-radius:30px;
   margin: 0px 0px 8px;
   padding: 15px;
   color: #FFFFFF;
