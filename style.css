@@ -22,7 +22,11 @@ header {
     padding: 20px 30px;
     max-width: 1600px;
     margin: auto;
-    color:#d9d9d9		
+    color:#d9d9d9
+    background-image: 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;    
 }
 nav {
     display: inline-block;
