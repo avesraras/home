@@ -17,8 +17,7 @@ input,select{vertical-align:middle}
 body,html {
 	background-color: #1e222d;
 }
-header {
-    background: #4A5EA1;
+header {    
     padding: 20px 30px;
     max-width: 1600px;
     margin: auto;
@@ -26,7 +25,7 @@ header {
     background-image: img src="banner.png";
     background-size: cover;
     background-position: center;
-    height: 20vh;    
+    height: 100vh;    
 }
 nav {
     display: inline-block;
