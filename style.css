@@ -66,7 +66,8 @@ aside {
 article {
     border-bottom: 2px dotted #999;
     padding-bottom: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 75px;
+    color: #d9d9d9;
 }
 article h2 {
     font-weight: normal;
