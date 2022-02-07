@@ -74,7 +74,7 @@ main section {
 	
 }
 footer {
-	background: #82a8cf;
+	background: #4A5EA1;
 	max-width: 1080px;
 	margin: auto;
 	clear: both;
@@ -88,16 +88,15 @@ address {
 }
 aside > div {
 	margin: 10px auto;
-	background: #82a8cf;
+	background: #4A5EA1;
 	min-height: 100px;
 }
 #logo {
-    display: inline-block;
-    vertical-align: middle;
-    font-size: 30px;
-    margin-right: 75px;
-    color: #FFF;
+  width: 50px;
+  vertical-align: middle;
+  margin-right: 10px;  
 }
+
 #logo img {
     width: 50px;
     vertical-align: middle;
