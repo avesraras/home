@@ -25,7 +25,7 @@ header {
     background-image: img src="banner.png";
     background-size: cover;
     background-position: center;
-    height: 100vh;    
+     
 }
 nav {
     display: inline-block;
