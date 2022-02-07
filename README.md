@@ -46,6 +46,85 @@
             }
         };
     </script>
+  
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://br.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Tape de Cotações</span></a> por TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {
+  "symbols": [
+    {
+      "description": "BTC-USDT",
+      "proName": "BINGX:BTCUSDT"
+    },
+    {
+      "description": "AXS-USDT",
+      "proName": "BINGX:AXSUSDT"
+    },
+    {
+      "description": "BAL-USDT",
+      "proName": "BINGX:BALUSDT"
+    },
+    {
+      "description": "ATOM-USDT",
+      "proName": "BINGX:ATOMUSDT"
+    },
+    {
+      "description": "BCH-USDT",
+      "proName": "BINGX:BCHUSDT"
+    },
+    {
+      "description": "BSV-USDT",
+      "proName": "BINGX:BSVUSDT"
+    },
+    {
+      "description": "DOT-USDT",
+      "proName": "BINGX:DOTUSDT"
+    },
+    {
+      "description": "ENJ-USDT",
+      "proName": "BINGX:ENJUSDT"
+    },
+    {
+      "description": "EOS-USDT",
+      "proName": "BINGX:EOSUSDT"
+    },
+    {
+      "description": "ETH-USDT",
+      "proName": "BINGX:ETHUSDT"
+    },
+    {
+      "description": "LINK-USDT",
+      "proName": "BINGX:LINKUSDT"
+    },
+    {
+      "description": "LTC-USDT",
+      "proName": "BINGX:LTCUSDT"
+    },
+    {
+      "description": "LUNA-USDT",
+      "proName": "BINGX:LUNAUSDT"
+    },
+    {
+      "description": "MATIC-USDT",
+      "proName": "BINGX:MATICUSDT"
+    },
+    {
+      "description": "OMG-USDT",
+      "proName": "BINGX:OMGUSDT"
+    }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "dark",
+  "isTransparent": false,
+  "displayMode": "adaptive",
+  "locale": "br"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->  
+  
 </body>
 </html>
 
