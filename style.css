@@ -20,7 +20,8 @@ body,html {
 header {    
     padding: 20px 30px;
     max-width: 1600px;
-    margin: auto;
+    margin-right: 40px;
+    margin-left: 40px;
     color:#d9d9d9
     background-image: img src="banner.png";
     background-size: cover;
@@ -66,13 +67,13 @@ article {
     border-bottom: 2px dotted #999;
     padding-bottom: 20px;
     margin-bottom: 30px;
-    margin-left: 12px;	
+    margin-left: 40px;	
     color: #d9d9d9;
 }
 article h2 {
     font-weight: normal;
     margin-bottom: 12px;
-    margin-left: 12px;
+    margin-left: 40px;
 }
 article p {
 	
@@ -83,19 +84,20 @@ main section {
 footer {
 	background: #4A5EA1;
 	max-width: 1600px;
-	margin-right: 12px;
+	margin-right: 40px;
+	margin-left: 40px;
 	clear: both;
 	text-align: right;
 	color: #d9d9d9;
 }
 footer p {
-	padding: 20px;
+	padding: 40px;
 }
 address {
     padding: 10px 20px 30px 10px;
 }
 aside > div {	
-	margin-right: 12px;
+	margin-right: 40px;
 	background: #4A5EA1;
 	min-height: 300px;	
 }
